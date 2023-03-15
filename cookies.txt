@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wirid-lab.umng.edu.co	TRUE	/	FALSE	1999999999	wordpress_google_apps_login	6c3589bb7aeb78a9a39f365a4a4a5f44
+wirid-lab.umng.edu.co	TRUE	/	FALSE	1999999999	qtrans_front_language	es
+
